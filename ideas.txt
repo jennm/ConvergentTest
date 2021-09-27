@@ -1,0 +1,4 @@
+1) App to help individuals determine how to make sustainable purchasing decisions. Individuals could scan the QR code of an object and produces the sustainability factor. If the sustainability is too low, the app could produce alternative products with a better sustainability factor.  
+
+2) An app to help individuals meal plan based on the items they have in their fridge, fitness goals, and dietary restrictions.
+
